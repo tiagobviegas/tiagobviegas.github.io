@@ -1,1 +1,1 @@
-Cougar Lines is a fictional intercity bus service website to practice web development apprenticeship on CSS, HTML and JS technologies.
+Cougar Lines is a fictional intercity bus service website to practice web development apprenticeship on CSS, HTML and JS technologies. WIP.
